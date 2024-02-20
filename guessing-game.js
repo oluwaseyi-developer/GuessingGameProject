@@ -76,3 +76,5 @@ let numAttempts = 0;
 let secretNumber = 0;
 
 askLimit();
+
+//https://my.appacademy.io/lessons/user-input/0e404b7c/practices/guessing-game-project/d236f9b6
